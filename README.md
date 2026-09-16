@@ -5,3 +5,13 @@
 但還無法讓 tests 看起來像自然語言，另外如果架構上有斷手斷腳的話還請多多見諒。
 但凡不嫌棄的話或許從 tests -> behaviors -> pages 這樣看下來應該會對眼睛比較友善
 但如果不想看也是可以理解的，以上。報告完畢。
+
+## Requirements
+```
+python 3.12+
+```
+
+## Installation
+```bash
+pip install -r requirements.txt
+```
